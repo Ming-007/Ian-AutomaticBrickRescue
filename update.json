@@ -1,1 +1,6 @@
-
+{
+	"version": "v1.0.0",
+	"versionCode": 100,
+	"zipUrl": "https://github.com/Ming-007/Ian-AutomaticBrickRescue/releases/download/AutomaticBrickRescue/Ian_AutomaticBrickRescue_v1.0.0.zip",
+	"changelog": "https://ming-007.github.io/Ian-AutomaticBrickRescue/changelog.md"
+}
